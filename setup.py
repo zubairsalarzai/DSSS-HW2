@@ -7,7 +7,7 @@ setup(
     author='zubairsalarzai',
     author_email='zubairsalar.hrp@gmail.com',
     url='https://github.com/zubairsalarzai/DSSS-HW2.git',
-    packages=['unittest'],  # Replace 'your_package' with the actual package name
+    packages=[],  # Replace 'your_package' with the actual package name
     install_requires=[
         # List your dependencies here
     ],
